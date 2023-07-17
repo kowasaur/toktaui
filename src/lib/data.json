@@ -1,0 +1,2423 @@
+{
+    "armour": [
+        {
+            "name": "Hylian Hood",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Hylian%20Hood.png",
+            "tiers": [
+                [{ "name": "Bokoblin Horn", "amount": 5 }],
+                [
+                    { "name": "Blue Bokoblin Horn", "amount": 5 },
+                    { "name": "Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Black Bokoblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Bokoblin Guts", "amount": 5 },
+                    { "name": "Silver Bokoblin Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Hylian Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Hylian%20Trousers.png",
+            "tiers": [
+                [{ "name": "Bokoblin Horn", "amount": 5 }],
+                [
+                    { "name": "Blue Bokoblin Horn", "amount": 5 },
+                    { "name": "Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Black Bokoblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Bokoblin Guts", "amount": 5 },
+                    { "name": "Silver Bokoblin Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Hylian Tunic",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Hylian%20Tunic.png",
+            "tiers": [
+                [{ "name": "Bokoblin Horn", "amount": 5 }],
+                [
+                    { "name": "Blue Bokoblin Horn", "amount": 5 },
+                    { "name": "Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Black Bokoblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Bokoblin Guts", "amount": 5 },
+                    { "name": "Silver Bokoblin Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of the Wild",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20the%20Wild.png",
+            "tiers": [
+                [
+                    { "name": "Acorn", "amount": 10 },
+                    { "name": "Farosh's Scale", "amount": 2 }
+                ],
+                [
+                    { "name": "Courser Bee Honey", "amount": 5 },
+                    { "name": "Farosh's Claw", "amount": 2 }
+                ],
+                [
+                    { "name": "Energetic Rhino Beetle", "amount": 3 },
+                    { "name": "Shard of Farosh's Fang", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 5 }
+                ],
+                [
+                    { "name": "Star Fragment", "amount": 3 },
+                    { "name": "Farosh's Horn", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of the Wild",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20the%20Wild.png",
+            "tiers": [
+                [
+                    { "name": "Acorn", "amount": 10 },
+                    { "name": "Farosh's Scale", "amount": 2 }
+                ],
+                [
+                    { "name": "Courser Bee Honey", "amount": 5 },
+                    { "name": "Farosh's Claw", "amount": 2 }
+                ],
+                [
+                    { "name": "Energetic Rhino Beetle", "amount": 3 },
+                    { "name": "Shard of Farosh's Fang", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 5 }
+                ],
+                [
+                    { "name": "Star Fragment", "amount": 3 },
+                    { "name": "Farosh's Horn", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of the Wild",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20the%20Wild.png",
+            "tiers": [
+                [
+                    { "name": "Acorn", "amount": 10 },
+                    { "name": "Farosh's Scale", "amount": 2 }
+                ],
+                [
+                    { "name": "Courser Bee Honey", "amount": 5 },
+                    { "name": "Farosh's Claw", "amount": 2 }
+                ],
+                [
+                    { "name": "Energetic Rhino Beetle", "amount": 3 },
+                    { "name": "Shard of Farosh's Fang", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 5 }
+                ],
+                [
+                    { "name": "Star Fragment", "amount": 3 },
+                    { "name": "Farosh's Horn", "amount": 2 },
+                    { "name": "Shard of Farosh's Spike", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Zora Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zora%20Helm.png",
+            "tiers": [
+                [{ "name": "Lizalfos Horn", "amount": 3 }],
+                [
+                    { "name": "Hyrule Bass", "amount": 5 },
+                    { "name": "Lizalfos Talon", "amount": 5 }
+                ],
+                [
+                    { "name": "Hearty Bass", "amount": 3 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Blue Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Lizalfos Horn", "amount": 5 },
+                    { "name": "Blue Lizalfos Tail", "amount": 5 },
+                    { "name": "Opal", "amount": 20 }
+                ]
+            ]
+        },
+        {
+            "name": "Zora Greaves",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zora%20Greaves.png",
+            "tiers": [
+                [{ "name": "Lizalfos Horn", "amount": 3 }],
+                [
+                    { "name": "Hyrule Bass", "amount": 5 },
+                    { "name": "Lizalfos Talon", "amount": 5 }
+                ],
+                [
+                    { "name": "Hearty Bass", "amount": 3 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Blue Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Lizalfos Horn", "amount": 5 },
+                    { "name": "Blue Lizalfos Tail", "amount": 5 },
+                    { "name": "Opal", "amount": 20 }
+                ]
+            ]
+        },
+        {
+            "name": "Zora Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zora%20Armor.png",
+            "tiers": [
+                [{ "name": "Lizalfos Horn", "amount": 3 }],
+                [
+                    { "name": "Hyrule Bass", "amount": 5 },
+                    { "name": "Lizalfos Talon", "amount": 5 }
+                ],
+                [
+                    { "name": "Hearty Bass", "amount": 3 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Blue Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Lizalfos Horn", "amount": 5 },
+                    { "name": "Blue Lizalfos Tail", "amount": 5 },
+                    { "name": "Opal", "amount": 20 }
+                ]
+            ]
+        },
+        {
+            "name": "Desert Voe Headband",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Desert%20Voe%20Headband.png",
+            "tiers": [
+                [{ "name": "White Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "White Chuchu Jelly", "amount": 5 },
+                    { "name": "Cool Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Chillshroom", "amount": 5 },
+                    { "name": "Ice Keese Wing", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Sapphire", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Desert Voe Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Desert%20Voe%20Trousers.png",
+            "tiers": [
+                [{ "name": "White Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "White Chuchu Jelly", "amount": 5 },
+                    { "name": "Cool Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Chillshroom", "amount": 5 },
+                    { "name": "Ice Keese Wing", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Sapphire", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Desert Voe Spaulder",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Desert%20Voe%20Spaulder.png",
+            "tiers": [
+                [{ "name": "White Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "White Chuchu Jelly", "amount": 5 },
+                    { "name": "Cool Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Chillshroom", "amount": 5 },
+                    { "name": "Ice Keese Wing", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Sapphire", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Snowquill Headdress",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Snowquill%20Headdress.png",
+            "tiers": [
+                [{ "name": "Red Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "Red Chuchu Jelly", "amount": 5 },
+                    { "name": "Warm Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Sunshroom", "amount": 5 },
+                    { "name": "Fire Keese Wing", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Snowquill Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Snowquill%20Trousers.png",
+            "tiers": [
+                [{ "name": "Red Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "Red Chuchu Jelly", "amount": 5 },
+                    { "name": "Warm Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Sunshroom", "amount": 5 },
+                    { "name": "Fire Keese Wing", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Snowquill Tunic",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Snowquill%20Tunic.png",
+            "tiers": [
+                [{ "name": "Red Chuchu Jelly", "amount": 3 }],
+                [
+                    { "name": "Red Chuchu Jelly", "amount": 5 },
+                    { "name": "Warm Safflina", "amount": 3 }
+                ],
+                [
+                    { "name": "Sunshroom", "amount": 5 },
+                    { "name": "Fire Keese Wing", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Flamebreaker Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Flamebreaker%20Helm.png",
+            "tiers": [
+                [{ "name": "Moblin Horn", "amount": 3 }],
+                [
+                    { "name": "Moblin Fang", "amount": 5 },
+                    { "name": "Fireproof Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Moblin Horn", "amount": 5 },
+                    { "name": "Flint", "amount": 15 },
+                    { "name": "Smotherwing Butterfly", "amount": 3 }
+                ],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Ruby", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Flamebreaker Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Flamebreaker%20Boots.png",
+            "tiers": [
+                [{ "name": "Moblin Horn", "amount": 3 }],
+                [
+                    { "name": "Moblin Fang", "amount": 5 },
+                    { "name": "Fireproof Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Moblin Horn", "amount": 5 },
+                    { "name": "Flint", "amount": 15 },
+                    { "name": "Smotherwing Butterfly", "amount": 3 }
+                ],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Ruby", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Flamebreaker Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Flamebreaker%20Armor.png",
+            "tiers": [
+                [{ "name": "Moblin Horn", "amount": 3 }],
+                [
+                    { "name": "Moblin Fang", "amount": 5 },
+                    { "name": "Fireproof Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Moblin Horn", "amount": 5 },
+                    { "name": "Flint", "amount": 15 },
+                    { "name": "Smotherwing Butterfly", "amount": 3 }
+                ],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 10 },
+                    { "name": "Ruby", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Stealth Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Stealth%20Mask.png",
+            "tiers": [
+                [{ "name": "Blue Nightshade", "amount": 3 }],
+                [
+                    { "name": "Sunset Firefly", "amount": 5 },
+                    { "name": "Blue Nightshade", "amount": 5 }
+                ],
+                [
+                    { "name": "Silent Shroom", "amount": 8 },
+                    { "name": "Sneaky River Snail", "amount": 5 }
+                ],
+                [
+                    { "name": "Sundelion", "amount": 10 },
+                    { "name": "Stealthfin Trout", "amount": 10 },
+                    { "name": "Silent Princess", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Stealth Tights",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Stealth%20Tights.png",
+            "tiers": [
+                [{ "name": "Blue Nightshade", "amount": 3 }],
+                [
+                    { "name": "Sunset Firefly", "amount": 5 },
+                    { "name": "Blue Nightshade", "amount": 5 }
+                ],
+                [
+                    { "name": "Silent Shroom", "amount": 8 },
+                    { "name": "Sneaky River Snail", "amount": 5 }
+                ],
+                [
+                    { "name": "Sundelion", "amount": 10 },
+                    { "name": "Stealthfin Trout", "amount": 10 },
+                    { "name": "Silent Princess", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Stealth Chest Guard",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Stealth%20Chest%20Guard.png",
+            "tiers": [
+                [{ "name": "Blue Nightshade", "amount": 3 }],
+                [
+                    { "name": "Sunset Firefly", "amount": 5 },
+                    { "name": "Blue Nightshade", "amount": 5 }
+                ],
+                [
+                    { "name": "Silent Shroom", "amount": 8 },
+                    { "name": "Sneaky River Snail", "amount": 5 }
+                ],
+                [
+                    { "name": "Sundelion", "amount": 10 },
+                    { "name": "Stealthfin Trout", "amount": 10 },
+                    { "name": "Silent Princess", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Climber's Bandanna",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Climber's%20Bandanna.png",
+            "tiers": [
+                [
+                    { "name": "Keese Wing", "amount": 3 },
+                    { "name": "Rushroom", "amount": 3 }
+                ],
+                [
+                    { "name": "Electric Keese Wing", "amount": 5 },
+                    { "name": "Hightail Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Hot-Footed Frog", "amount": 10 },
+                    { "name": "Ice Keese Wing", "amount": 8 }
+                ],
+                [
+                    { "name": "Swift Violet", "amount": 20 },
+                    { "name": "Fire Keese Wing", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Climbing Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Climbing%20Boots.png",
+            "tiers": [
+                [
+                    { "name": "Keese Wing", "amount": 3 },
+                    { "name": "Rushroom", "amount": 3 }
+                ],
+                [
+                    { "name": "Electric Keese Wing", "amount": 5 },
+                    { "name": "Hightail Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Hot-Footed Frog", "amount": 10 },
+                    { "name": "Ice Keese Wing", "amount": 8 }
+                ],
+                [
+                    { "name": "Swift Violet", "amount": 20 },
+                    { "name": "Fire Keese Wing", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Climbing Gear",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Climbing%20Gear.png",
+            "tiers": [
+                [
+                    { "name": "Keese Wing", "amount": 3 },
+                    { "name": "Rushroom", "amount": 3 }
+                ],
+                [
+                    { "name": "Electric Keese Wing", "amount": 5 },
+                    { "name": "Hightail Lizard", "amount": 5 }
+                ],
+                [
+                    { "name": "Hot-Footed Frog", "amount": 10 },
+                    { "name": "Ice Keese Wing", "amount": 8 }
+                ],
+                [
+                    { "name": "Swift Violet", "amount": 20 },
+                    { "name": "Fire Keese Wing", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Radiant Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Radiant%20Mask.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Bokoblin Guts", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Moblin Guts", "amount": 2 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Horriblin Guts", "amount": 3 },
+                    { "name": "Gibdo Bone", "amount": 10 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Lynel Guts", "amount": 3 },
+                    { "name": "Molduga Jaw", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Radiant Tights",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Radiant%20Tights.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Bokoblin Guts", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Moblin Guts", "amount": 2 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Horriblin Guts", "amount": 3 },
+                    { "name": "Gibdo Bone", "amount": 10 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Lynel Guts", "amount": 3 },
+                    { "name": "Molduga Jaw", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Radiant Shirt",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Radiant%20Shirt.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Bokoblin Guts", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Moblin Guts", "amount": 2 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Horriblin Guts", "amount": 3 },
+                    { "name": "Gibdo Bone", "amount": 10 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Lynel Guts", "amount": 3 },
+                    { "name": "Molduga Jaw", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Soldier's Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Soldier's%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Chuchu Jelly", "amount": 5 },
+                    { "name": "Bokoblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Keese Eyeball", "amount": 5 },
+                    { "name": "Moblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Flint", "amount": 30 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Lynel Hoof", "amount": 5 },
+                    { "name": "Lynel Guts", "amount": 5 },
+                    { "name": "Amber", "amount": 30 }
+                ]
+            ]
+        },
+        {
+            "name": "Soldier's Greaves",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Soldier's%20Greaves.png",
+            "tiers": [
+                [
+                    { "name": "Chuchu Jelly", "amount": 5 },
+                    { "name": "Bokoblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Keese Eyeball", "amount": 5 },
+                    { "name": "Moblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Flint", "amount": 30 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Lynel Hoof", "amount": 5 },
+                    { "name": "Lynel Guts", "amount": 5 },
+                    { "name": "Amber", "amount": 30 }
+                ]
+            ]
+        },
+        {
+            "name": "Soldier's Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Soldier's%20Armor.png",
+            "tiers": [
+                [
+                    { "name": "Chuchu Jelly", "amount": 5 },
+                    { "name": "Bokoblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Keese Eyeball", "amount": 5 },
+                    { "name": "Moblin Guts", "amount": 3 }
+                ],
+                [
+                    { "name": "Flint", "amount": 30 },
+                    { "name": "Lizalfos Tail", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Lynel Hoof", "amount": 5 },
+                    { "name": "Lynel Guts", "amount": 5 },
+                    { "name": "Amber", "amount": 30 }
+                ]
+            ]
+        },
+        {
+            "name": "Diamond Circlet",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Diamond%20Circlet.png",
+            "tiers": [
+                [
+                    { "name": "Diamond", "amount": 2 },
+                    { "name": "Flint", "amount": 3 }
+                ],
+                [
+                    { "name": "Diamond", "amount": 3 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Diamond", "amount": 5 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Diamond", "amount": 8 },
+                    { "name": "Star Fragment", "amount": 2 }
+                ]
+            ]
+        },
+        {
+            "name": "Ruby Circlet",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Ruby%20Circlet.png",
+            "tiers": [
+                [
+                    { "name": "Ruby", "amount": 2 },
+                    { "name": "Flint", "amount": 3 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 4 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 2 }
+                ]
+            ]
+        },
+        {
+            "name": "Sapphire Circlet",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Sapphire%20Circlet.png",
+            "tiers": [
+                [
+                    { "name": "Sapphire", "amount": 2 },
+                    { "name": "Flint", "amount": 3 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 4 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 2 }
+                ]
+            ]
+        },
+        {
+            "name": "Topaz Earrings",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Topaz%20Earrings.png",
+            "tiers": [
+                [
+                    { "name": "Topaz", "amount": 2 },
+                    { "name": "Flint", "amount": 3 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 4 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 2 }
+                ]
+            ]
+        },
+        {
+            "name": "Opal Earrings",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Opal%20Earrings.png",
+            "tiers": [
+                [
+                    { "name": "Opal", "amount": 6 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Opal", "amount": 12 },
+                    { "name": "Flint", "amount": 10 }
+                ],
+                [
+                    { "name": "Opal", "amount": 18 },
+                    { "name": "Flint", "amount": 15 }
+                ],
+                [
+                    { "name": "Opal", "amount": 30 },
+                    { "name": "Flint", "amount": 25 }
+                ]
+            ]
+        },
+        {
+            "name": "Amber Earrings",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Amber%20Earrings.png",
+            "tiers": [
+                [
+                    { "name": "Amber", "amount": 10 },
+                    { "name": "Flint", "amount": 5 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Flint", "amount": 10 }
+                ],
+                [
+                    { "name": "Amber", "amount": 35 },
+                    { "name": "Flint", "amount": 15 }
+                ],
+                [
+                    { "name": "Amber", "amount": 60 },
+                    { "name": "Flint", "amount": 25 }
+                ]
+            ]
+        },
+        {
+            "name": "Rubber Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Rubber%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 1 }
+                ],
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 8 },
+                    { "name": "Voltfruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Zapshroom", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Electric Safflina", "amount": 8 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 5 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 8 }
+                ]
+            ]
+        },
+        {
+            "name": "Rubber Tights",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Rubber%20Tights.png",
+            "tiers": [
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 1 }
+                ],
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 8 },
+                    { "name": "Voltfruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Zapshroom", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Electric Safflina", "amount": 8 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 5 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 8 }
+                ]
+            ]
+        },
+        {
+            "name": "Rubber Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Rubber%20Armor.png",
+            "tiers": [
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 1 }
+                ],
+                [
+                    { "name": "Yellow Chuchu Jelly", "amount": 8 },
+                    { "name": "Voltfruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Zapshroom", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Electric Safflina", "amount": 8 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 5 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 },
+                    { "name": "Electric Lizalfos Tail", "amount": 8 }
+                ]
+            ]
+        },
+        {
+            "name": "Barbarian Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Barbarian%20Helm.png",
+            "tiers": [
+                [{ "name": "Mighty Thistle", "amount": 3 }],
+                [
+                    { "name": "Razorshroom", "amount": 5 },
+                    { "name": "Lynel Saber Horn", "amount": 2 },
+                    { "name": "Lynel Mace Horn", "amount": 2 }
+                ],
+                [
+                    { "name": "Blue-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "Blue-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Razorclaw Crab", "amount": 3 }
+                ],
+                [
+                    { "name": "White-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "White-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Bladed Rhino Beetle", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Barbarian Leg Wraps",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Barbarian%20Leg%20Wraps.png",
+            "tiers": [
+                [{ "name": "Mighty Thistle", "amount": 3 }],
+                [
+                    { "name": "Razorshroom", "amount": 5 },
+                    { "name": "Lynel Saber Horn", "amount": 2 },
+                    { "name": "Lynel Mace Horn", "amount": 2 }
+                ],
+                [
+                    { "name": "Blue-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "Blue-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Razorclaw Crab", "amount": 3 }
+                ],
+                [
+                    { "name": "White-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "White-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Bladed Rhino Beetle", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Barbarian Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Barbarian%20Armor.png",
+            "tiers": [
+                [{ "name": "Mighty Thistle", "amount": 3 }],
+                [
+                    { "name": "Razorshroom", "amount": 5 },
+                    { "name": "Lynel Saber Horn", "amount": 2 },
+                    { "name": "Lynel Mace Horn", "amount": 2 }
+                ],
+                [
+                    { "name": "Blue-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "Blue-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Razorclaw Crab", "amount": 3 }
+                ],
+                [
+                    { "name": "White-Maned Lynel Saber Horn", "amount": 3 },
+                    { "name": "White-Maned Lynel Mace Horn", "amount": 3 },
+                    { "name": "Bladed Rhino Beetle", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Sand Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Sand%20Boots.png",
+            "tiers": [
+                [{ "name": "Hightail Lizard", "amount": 3 }],
+                [
+                    { "name": "Gibdo Bone", "amount": 20 },
+                    { "name": "Swift Carrot", "amount": 5 }
+                ],
+                [
+                    { "name": "Gibdo Guts", "amount": 5 },
+                    { "name": "Rushroom", "amount": 10 },
+                    { "name": "Molduga Fin", "amount": 5 }
+                ],
+                [
+                    { "name": "Molduga Guts", "amount": 5 },
+                    { "name": "Swift Violet", "amount": 10 },
+                    { "name": "Hearty Lizard", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Glide Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Glide%20Mask.png",
+            "tiers": [
+                [{ "name": "Keese Wing", "amount": 3 }],
+                [
+                    { "name": "Aerocuda Wing", "amount": 5 },
+                    { "name": "Aerocuda Eyeball", "amount": 6 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 6 },
+                    { "name": "Aerocuda Eyeball", "amount": 8 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 10 },
+                    { "name": "Gibdo Wing", "amount": 8 },
+                    { "name": "Gleeok Wing", "amount": 12 }
+                ]
+            ]
+        },
+        {
+            "name": "Glide Tights",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Glide%20Tights.png",
+            "tiers": [
+                [{ "name": "Keese Wing", "amount": 3 }],
+                [
+                    { "name": "Aerocuda Wing", "amount": 5 },
+                    { "name": "Aerocuda Eyeball", "amount": 6 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 6 },
+                    { "name": "Aerocuda Eyeball", "amount": 8 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 10 },
+                    { "name": "Gibdo Wing", "amount": 8 },
+                    { "name": "Gleeok Wing", "amount": 12 }
+                ]
+            ]
+        },
+        {
+            "name": "Glide Shirt",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Glide%20Shirt.png",
+            "tiers": [
+                [{ "name": "Keese Wing", "amount": 3 }],
+                [
+                    { "name": "Aerocuda Wing", "amount": 5 },
+                    { "name": "Aerocuda Eyeball", "amount": 6 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 6 },
+                    { "name": "Aerocuda Eyeball", "amount": 8 }
+                ],
+                [
+                    { "name": "Aerocuda Wing", "amount": 10 },
+                    { "name": "Gibdo Wing", "amount": 8 },
+                    { "name": "Gleeok Wing", "amount": 12 }
+                ]
+            ]
+        },
+        {
+            "name": "Ancient Hero's Aspect",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Ancient%20Hero's%20Aspect.png",
+            "tiers": [
+                [
+                    { "name": "Silver Bokoblin Horn", "amount": 9 },
+                    { "name": "Hino", "amount": 9 },
+                    { "name": "Zonaite", "amount": 15 }
+                ],
+                [
+                    { "name": "Silver Moblin Horn", "amount": 9 },
+                    { "name": "Fro", "amount": 9 },
+                    { "name": "Large Zonaite", "amount": 10 }
+                ],
+                [
+                    { "name": "Silver Lizalfos Horn", "amount": 9 },
+                    { "name": "Molduga Guts", "amount": 9 },
+                    { "name": "Large Zonaite", "amount": 15 }
+                ],
+                [
+                    { "name": "Silver Lynel Saber Horn", "amount": 9 },
+                    { "name": "Silver Lynel Mace Horn", "amount": 9 },
+                    { "name": "Gleeok Guts", "amount": 9 }
+                ]
+            ]
+        },
+        {
+            "name": "Froggy Hood",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Froggy%20Hood.png",
+            "tiers": [
+                [{ "name": "Sticky Lizard", "amount": 3 }],
+                [
+                    { "name": "Sticky Lizard", "amount": 5 },
+                    { "name": "Horriblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Horriblin Horn", "amount": 5 },
+                    { "name": "Sticky Frog", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Horriblin Horn", "amount": 5 },
+                    { "name": "Horriblin Guts", "amount": 10 },
+                    { "name": "Opal", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Froggy Leggings",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Froggy%20Leggings.png",
+            "tiers": [
+                [{ "name": "Sticky Lizard", "amount": 3 }],
+                [
+                    { "name": "Sticky Lizard", "amount": 5 },
+                    { "name": "Horriblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Horriblin Horn", "amount": 5 },
+                    { "name": "Sticky Frog", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Horriblin Horn", "amount": 5 },
+                    { "name": "Horriblin Guts", "amount": 10 },
+                    { "name": "Opal", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Froggy Sleeve",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Froggy%20Sleeve.png",
+            "tiers": [
+                [{ "name": "Sticky Lizard", "amount": 3 }],
+                [
+                    { "name": "Sticky Lizard", "amount": 5 },
+                    { "name": "Horriblin Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Blue Horriblin Horn", "amount": 5 },
+                    { "name": "Sticky Frog", "amount": 5 }
+                ],
+                [
+                    { "name": "Black Horriblin Horn", "amount": 5 },
+                    { "name": "Horriblin Guts", "amount": 10 },
+                    { "name": "Opal", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Miner's Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Miner's%20Mask.png",
+            "tiers": [
+                [{ "name": "Brightbloom Seed", "amount": 10 }],
+                [
+                    { "name": "Brightbloom Seed", "amount": 20 },
+                    { "name": "Brightcap", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 15 },
+                    { "name": "Deep Firefly", "amount": 10 },
+                    { "name": "Glowing Cave Fish", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 20 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Diamond", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Miner's Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Miner's%20Trousers.png",
+            "tiers": [
+                [{ "name": "Brightbloom Seed", "amount": 10 }],
+                [
+                    { "name": "Brightbloom Seed", "amount": 20 },
+                    { "name": "Brightcap", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 15 },
+                    { "name": "Deep Firefly", "amount": 10 },
+                    { "name": "Glowing Cave Fish", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 20 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Diamond", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Miner's Top",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Miner's%20Top.png",
+            "tiers": [
+                [{ "name": "Brightbloom Seed", "amount": 10 }],
+                [
+                    { "name": "Brightbloom Seed", "amount": 20 },
+                    { "name": "Brightcap", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 15 },
+                    { "name": "Deep Firefly", "amount": 10 },
+                    { "name": "Glowing Cave Fish", "amount": 5 }
+                ],
+                [
+                    { "name": "Giant Brightbloom Seed", "amount": 20 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Diamond", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Ember Headdress",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Ember%20Headdress.png",
+            "tiers": [
+                [{ "name": "Fire Fruit", "amount": 3 }],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Summerwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Fire Like Stone", "amount": 5 },
+                    { "name": "Warm Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Flame Horn", "amount": 5 },
+                    { "name": "Sizzlefin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Ember Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Ember%20Trousers.png",
+            "tiers": [
+                [{ "name": "Fire Fruit", "amount": 3 }],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Summerwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Fire Like Stone", "amount": 5 },
+                    { "name": "Warm Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Flame Horn", "amount": 5 },
+                    { "name": "Sizzlefin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Ember Shirt",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Ember%20Shirt.png",
+            "tiers": [
+                [{ "name": "Fire Fruit", "amount": 3 }],
+                [
+                    { "name": "Fire-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Summerwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Fire Like Stone", "amount": 5 },
+                    { "name": "Warm Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Flame Horn", "amount": 5 },
+                    { "name": "Sizzlefin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Charged Headdress",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Charged%20Headdress.png",
+            "tiers": [
+                [{ "name": "Shock Fruit", "amount": 3 }],
+                [
+                    { "name": "Thunderwing Butterfly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Shock Like Stone", "amount": 5 },
+                    { "name": "Electric Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 3 }
+                ],
+                [
+                    { "name": "Gleeok Thunder Horn", "amount": 5 },
+                    { "name": "Voltfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Charged Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Charged%20Trousers.png",
+            "tiers": [
+                [{ "name": "Shock Fruit", "amount": 3 }],
+                [
+                    { "name": "Thunderwing Butterfly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Shock Like Stone", "amount": 5 },
+                    { "name": "Electric Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 3 }
+                ],
+                [
+                    { "name": "Gleeok Thunder Horn", "amount": 5 },
+                    { "name": "Voltfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Charged Shirt",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Charged%20Shirt.png",
+            "tiers": [
+                [{ "name": "Shock Fruit", "amount": 3 }],
+                [
+                    { "name": "Thunderwing Butterfly", "amount": 3 },
+                    { "name": "Electric Lizalfos Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Shock Like Stone", "amount": 5 },
+                    { "name": "Electric Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 3 }
+                ],
+                [
+                    { "name": "Gleeok Thunder Horn", "amount": 5 },
+                    { "name": "Voltfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Frostbite Headdress",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Frostbite%20Headdress.png",
+            "tiers": [
+                [{ "name": "Ice Fruit", "amount": 3 }],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Winterwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Ice Like Stone", "amount": 5 },
+                    { "name": "Cold Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Frost Horn", "amount": 5 },
+                    { "name": "Chillfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Frostbite Trousers",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Frostbite%20Trousers.png",
+            "tiers": [
+                [{ "name": "Ice Fruit", "amount": 3 }],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Winterwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Ice Like Stone", "amount": 5 },
+                    { "name": "Cold Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Frost Horn", "amount": 5 },
+                    { "name": "Chillfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Frostbite Shirt",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Frostbite%20Shirt.png",
+            "tiers": [
+                [{ "name": "Ice Fruit", "amount": 3 }],
+                [
+                    { "name": "Ice-Breath Lizalfos Horn", "amount": 5 },
+                    { "name": "Winterwing Butterfly", "amount": 5 }
+                ],
+                [
+                    { "name": "Ice Like Stone", "amount": 5 },
+                    { "name": "Cold Darner", "amount": 5 },
+                    { "name": "Large Zonai Charge", "amount": 5 }
+                ],
+                [
+                    { "name": "Gleeok Frost Horn", "amount": 5 },
+                    { "name": "Chillfin Trout", "amount": 10 },
+                    { "name": "Large Zonai Charge", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Zonaite Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zonaite%20Helm.png",
+            "tiers": [
+                [{ "name": "Soldier Construct Horn", "amount": 5 }],
+                [
+                    { "name": "Soldier Construct II Horn", "amount": 5 },
+                    { "name": "Zonaite", "amount": 5 },
+                    { "name": "Captain Construct I Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Captain Construct II Horn", "amount": 5 },
+                    { "name": "Soldier Construct III Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Captain Construct III Horn", "amount": 5 },
+                    { "name": "Soldier Construct IV Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Zonaite Shin Guards",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zonaite%20Shin%20Guards.png",
+            "tiers": [
+                [{ "name": "Soldier Construct Horn", "amount": 5 }],
+                [
+                    { "name": "Soldier Construct II Horn", "amount": 5 },
+                    { "name": "Zonaite", "amount": 5 },
+                    { "name": "Captain Construct I Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Captain Construct II Horn", "amount": 5 },
+                    { "name": "Soldier Construct III Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Captain Construct III Horn", "amount": 5 },
+                    { "name": "Soldier Construct IV Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Zonaite Waistguard",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Zonaite%20Waistguard.png",
+            "tiers": [
+                [{ "name": "Soldier Construct Horn", "amount": 5 }],
+                [
+                    { "name": "Soldier Construct II Horn", "amount": 5 },
+                    { "name": "Zonaite", "amount": 5 },
+                    { "name": "Captain Construct I Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Captain Construct II Horn", "amount": 5 },
+                    { "name": "Soldier Construct III Horn", "amount": 5 }
+                ],
+                [
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Captain Construct III Horn", "amount": 5 },
+                    { "name": "Soldier Construct IV Horn", "amount": 5 }
+                ]
+            ]
+        },
+        {
+            "name": "Mask of Awakening",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Mask%20of%20Awakening.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of Awakening",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20Awakening.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of Awakening",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20Awakening.png",
+            "tiers": [
+                [
+                    { "name": "Luminous Stone", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Luminous Stone", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Champion's Tunic",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Champion's%20Tunic.png",
+            "tiers": [
+                [
+                    { "name": "Silent Princess", "amount": 3 },
+                    { "name": "Light Dragon's Scale", "amount": 2 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 3 },
+                    { "name": "Light Dragon's Talon", "amount": 2 },
+                    { "name": "Sundelion", "amount": 10 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 5 },
+                    { "name": "Shard of Light Dragon's Fang", "amount": 2 },
+                    { "name": "Sundelion", "amount": 15 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 10 },
+                    { "name": "Light Dragon's Horn", "amount": 2 },
+                    { "name": "Sundelion", "amount": 20 }
+                ]
+            ]
+        },
+        {
+            "name": "Hood of the Depths",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Hood%20of%20the%20Depths.png",
+            "tiers": [
+                [{ "name": "Deep Firefly", "amount": 3 }],
+                [
+                    { "name": "Dark Clump", "amount": 5 },
+                    { "name": "Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Zonaite", "amount": 20 },
+                    { "name": "Fro", "amount": 3 },
+                    { "name": "Obsidian Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Fro", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Gaiters of the Depths",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Gaiters%20of%20the%20Depths.png",
+            "tiers": [
+                [{ "name": "Deep Firefly", "amount": 3 }],
+                [
+                    { "name": "Dark Clump", "amount": 5 },
+                    { "name": "Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Zonaite", "amount": 20 },
+                    { "name": "Fro", "amount": 3 },
+                    { "name": "Obsidian Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Fro", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of the Depths",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20the%20Depths.png",
+            "tiers": [
+                [{ "name": "Deep Firefly", "amount": 3 }],
+                [
+                    { "name": "Dark Clump", "amount": 5 },
+                    { "name": "Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Zonaite", "amount": 20 },
+                    { "name": "Fro", "amount": 3 },
+                    { "name": "Obsidian Fro", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Fro", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of Memories",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20Memories.png",
+            "tiers": [
+                [
+                    { "name": "Silent Princess", "amount": 3 },
+                    { "name": "Light Dragon's Scale", "amount": 1 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 3 },
+                    { "name": "Light Dragon's Talon", "amount": 1 },
+                    { "name": "Farosh's Horn", "amount": 2 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 5 },
+                    { "name": "Shard of Light Dragon's Fang", "amount": 1 },
+                    { "name": "Naydra's Horn", "amount": 2 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 10 },
+                    { "name": "Light Dragon's Horn", "amount": 1 },
+                    { "name": "Dinraal's Horn", "amount": 2 }
+                ]
+            ]
+        },
+        {
+            "name": "Yiga Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Yiga%20Mask.png",
+            "tiers": [
+                [{ "name": "Octorok Eyeball", "amount": 2 }],
+                [
+                    { "name": "Puffshroom", "amount": 3 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 5 },
+                    { "name": "Keese Eyeball", "amount": 5 }
+                ],
+                [
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Mighty Bananas", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Yiga Tights",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Yiga%20Tights.png",
+            "tiers": [
+                [{ "name": "Octorok Eyeball", "amount": 2 }],
+                [
+                    { "name": "Puffshroom", "amount": 3 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 5 },
+                    { "name": "Keese Eyeball", "amount": 5 }
+                ],
+                [
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Mighty Bananas", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Yiga Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Yiga%20Armor.png",
+            "tiers": [
+                [{ "name": "Octorok Eyeball", "amount": 2 }],
+                [
+                    { "name": "Puffshroom", "amount": 3 },
+                    { "name": "Fire-Breath Lizalfos Tail", "amount": 3 }
+                ],
+                [
+                    { "name": "Ice-Breath Lizalfos Tail", "amount": 5 },
+                    { "name": "Keese Eyeball", "amount": 5 }
+                ],
+                [
+                    { "name": "Electric Lizalfos Tail", "amount": 5 },
+                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Mighty Bananas", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Snow Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Snow%20Boots.png",
+            "tiers": [
+                [{ "name": "Hightail Lizard", "amount": 3 }],
+                [
+                    { "name": "Octorok Tentacle", "amount": 5 },
+                    { "name": "Swift Carrot", "amount": 5 }
+                ],
+                [
+                    { "name": "Octo Balloon", "amount": 5 },
+                    { "name": "Rushroom", "amount": 20 }
+                ],
+                [
+                    { "name": "Naydra's Scale", "amount": 2 },
+                    { "name": "Swift Violet", "amount": 20 }
+                ]
+            ]
+        },
+        {
+            "name": "Royal Guard Cap",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Royal%20Guard%20Cap.png",
+            "tiers": [
+                [
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Boss Bokoblin Horn", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Boss Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Black Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Molduga Guts", "amount": 3 },
+                    { "name": "Gleeok Guts", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Royal Guard Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Royal%20Guard%20Boots.png",
+            "tiers": [
+                [
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Boss Bokoblin Horn", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Boss Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Black Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Molduga Guts", "amount": 3 },
+                    { "name": "Gleeok Guts", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Royal Guard Uniform",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Royal%20Guard%20Uniform.png",
+            "tiers": [
+                [
+                    { "name": "Bokoblin Guts", "amount": 3 },
+                    { "name": "Boss Bokoblin Horn", "amount": 3 }
+                ],
+                [
+                    { "name": "Blue Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Boss Bokoblin Fang", "amount": 3 }
+                ],
+                [
+                    { "name": "Black Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Hino", "amount": 3 }
+                ],
+                [
+                    { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
+                    { "name": "Molduga Guts", "amount": 3 },
+                    { "name": "Gleeok Guts", "amount": 3 }
+                ]
+            ]
+        },
+        {
+            "name": "Vah Ruta Divine Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Vah%20Ruta%20Divine%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Zonaite", "amount": 5 },
+                    { "name": "Opal", "amount": 5 }
+                ],
+                [
+                    { "name": "Zonaite", "amount": 10 },
+                    { "name": "Opal", "amount": 10 }
+                ],
+                [
+                    { "name": "Opal", "amount": 15 },
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Dazzlefruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Opal", "amount": 25 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Dazzlefruit", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Vah Medoh Divine Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Vah%20Medoh%20Divine%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Sapphire", "amount": 1 },
+                    { "name": "Zonaite", "amount": 5 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 4 },
+                    { "name": "Zonaite", "amount": 10 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 6 },
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Dazzlefruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 10 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Dazzlefruit", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Vah Rudania Divine Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Vah%20Rudania%20Divine%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Zonaite", "amount": 5 },
+                    { "name": "Ruby", "amount": 1 }
+                ],
+                [
+                    { "name": "Zonaite", "amount": 10 },
+                    { "name": "Ruby", "amount": 4 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 6 },
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Dazzlefruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 10 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Dazzlefruit", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Vah Naboris Divine Helm",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Vah%20Naboris%20Divine%20Helm.png",
+            "tiers": [
+                [
+                    { "name": "Topaz", "amount": 1 },
+                    { "name": "Zonaite", "amount": 5 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 4 },
+                    { "name": "Zonaite", "amount": 10 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 6 },
+                    { "name": "Large Zonaite", "amount": 5 },
+                    { "name": "Dazzlefruit", "amount": 5 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 10 },
+                    { "name": "Large Zonaite", "amount": 10 },
+                    { "name": "Dazzlefruit", "amount": 10 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of Time",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20Time.png",
+            "tiers": [
+                [
+                    { "name": "Amber", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 40 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of Time",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20Time.png",
+            "tiers": [
+                [
+                    { "name": "Amber", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 40 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of Time",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20Time.png",
+            "tiers": [
+                [
+                    { "name": "Amber", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 20 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 30 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Amber", "amount": 40 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of the Wind",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20the%20Wind.png",
+            "tiers": [
+                [
+                    { "name": "Opal", "amount": 5 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 25 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of the Wind",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20the%20Wind.png",
+            "tiers": [
+                [
+                    { "name": "Opal", "amount": 5 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 25 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of the Wind",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20the%20Wind.png",
+            "tiers": [
+                [
+                    { "name": "Opal", "amount": 5 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 15 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Opal", "amount": 25 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of Twilight",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20Twilight.png",
+            "tiers": [
+                [
+                    { "name": "Topaz", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of Twilight",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20Twilight.png",
+            "tiers": [
+                [
+                    { "name": "Topaz", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of Twilight",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20Twilight.png",
+            "tiers": [
+                [
+                    { "name": "Topaz", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Topaz", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of the Sky",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20the%20Sky.png",
+            "tiers": [
+                [
+                    { "name": "Sapphire", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of the Sky",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20the%20Sky.png",
+            "tiers": [
+                [
+                    { "name": "Sapphire", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of the Sky",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20the%20Sky.png",
+            "tiers": [
+                [
+                    { "name": "Sapphire", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Sapphire", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Sheik's Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Sheik's%20Mask.png",
+            "tiers": [
+                [
+                    { "name": "Silent Princess", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 2 },
+                    { "name": "Star Fragment", "amount": 2 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 3 }
+                ],
+                [
+                    { "name": "Silent Princess", "amount": 8 },
+                    { "name": "Star Fragment", "amount": 4 }
+                ]
+            ]
+        },
+        {
+            "name": "Fierce Deity Mask",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Mask.png",
+            "tiers": [
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Scale", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Claw", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 2 },
+                    { "name": "Shard of Dinraal's Fang", "amount": 1 }
+                ],
+                [
+                    { "name": "Lynel Guts", "amount": 2 },
+                    { "name": "Dinraal's Horn", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Fierce Deity Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Boots.png",
+            "tiers": [
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Scale", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Claw", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 2 },
+                    { "name": "Shard of Dinraal's Fang", "amount": 1 }
+                ],
+                [
+                    { "name": "Lynel Guts", "amount": 2 },
+                    { "name": "Dinraal's Horn", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Fierce Deity Armor",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Armor.png",
+            "tiers": [
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Scale", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 5 },
+                    { "name": "Dinraal's Claw", "amount": 1 }
+                ],
+                [
+                    { "name": "Hino", "amount": 2 },
+                    { "name": "Shard of Dinraal's Fang", "amount": 1 }
+                ],
+                [
+                    { "name": "Lynel Guts", "amount": 2 },
+                    { "name": "Dinraal's Horn", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Cap of the Hero",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Cap%20of%20the%20Hero.png",
+            "tiers": [
+                [
+                    { "name": "Ruby", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Trousers of the Hero",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Trousers%20of%20the%20Hero.png",
+            "tiers": [
+                [
+                    { "name": "Ruby", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Tunic of the Hero",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Tunic%20of%20the%20Hero.png",
+            "tiers": [
+                [
+                    { "name": "Ruby", "amount": 1 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 4 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 6 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ],
+                [
+                    { "name": "Ruby", "amount": 10 },
+                    { "name": "Star Fragment", "amount": 1 }
+                ]
+            ]
+        }
+    ],
+    "item_image": {
+        "Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Bokoblin%20Horn.png",
+        "Blue Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Bokoblin%20Horn.png",
+        "Bokoblin Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Bokoblin%20Fang.png",
+        "Amber": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Amber.png",
+        "Bokoblin Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Bokoblin%20Guts.png",
+        "Black Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Bokoblin%20Horn.png",
+        "Silver Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Bokoblin%20Horn.png",
+        "Acorn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Acorn.png",
+        "Farosh's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Farosh's%20Scale.png",
+        "Courser Bee Honey": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Courser%20Bee%20Honey.png",
+        "Farosh's Claw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Farosh's%20Claw.png",
+        "Energetic Rhino Beetle": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Energetic%20Rhino%20Beetle.png",
+        "Shard of Farosh's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Farosh's%20Fang.png",
+        "Shard of Farosh's Spike": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Farosh's%20Spike.png",
+        "Star Fragment": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Star%20Fragment.png",
+        "Farosh's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Farosh's%20Horn.png",
+        "Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lizalfos%20Horn.png",
+        "Hyrule Bass": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hyrule%20Bass.png",
+        "Lizalfos Talon": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lizalfos%20Talon.png",
+        "Hearty Bass": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hearty%20Bass.png",
+        "Lizalfos Tail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lizalfos%20Tail.png",
+        "Blue Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Lizalfos%20Horn.png",
+        "Black Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Lizalfos%20Horn.png",
+        "Blue Lizalfos Tail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Lizalfos%20Tail.png",
+        "Opal": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Opal.png",
+        "White Chuchu Jelly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/White%20Chuchu%20Jelly.png",
+        "Cool Safflina": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Cool%20Safflina.png",
+        "Chillshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Chillshroom.png",
+        "Ice Keese Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ice%20Keese%20Wing.png",
+        "Ice-Breath Lizalfos Tail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ice-Breath%20Lizalfos%20Tail.png",
+        "Ice-Breath Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ice-Breath%20Lizalfos%20Horn.png",
+        "Sapphire": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sapphire.png",
+        "Red Chuchu Jelly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Red%20Chuchu%20Jelly.png",
+        "Warm Safflina": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Warm%20Safflina.png",
+        "Sunshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sunshroom.png",
+        "Fire Keese Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fire%20Keese%20Wing.png",
+        "Fire-Breath Lizalfos Tail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fire-Breath%20Lizalfos%20Tail.png",
+        "Ruby": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ruby.png",
+        "Fire-Breath Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fire-Breath%20Lizalfos%20Horn.png",
+        "Moblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Moblin%20Horn.png",
+        "Moblin Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Moblin%20Fang.png",
+        "Fireproof Lizard": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fireproof%20Lizard.png",
+        "Blue Moblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Moblin%20Horn.png",
+        "Flint": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Flint.png",
+        "Smotherwing Butterfly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Smotherwing%20Butterfly.png",
+        "Blue Nightshade": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Nightshade.png",
+        "Sunset Firefly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sunset%20Firefly.png",
+        "Silent Shroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silent%20Shroom.png",
+        "Sneaky River Snail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sneaky%20River%20Snail.png",
+        "Sundelion": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sundelion.png",
+        "Stealthfin Trout": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Stealthfin%20Trout.png",
+        "Silent Princess": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silent%20Princess.png",
+        "Keese Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Keese%20Wing.png",
+        "Rushroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Rushroom.png",
+        "Electric Keese Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Electric%20Keese%20Wing.png",
+        "Hightail Lizard": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hightail%20Lizard.png",
+        "Hot-Footed Frog": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hot-Footed%20Frog.png",
+        "Swift Violet": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Swift%20Violet.png",
+        "Luminous Stone": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Luminous%20Stone.png",
+        "Moblin Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Moblin%20Guts.png",
+        "Horriblin Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Horriblin%20Guts.png",
+        "Gibdo Bone": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gibdo%20Bone.png",
+        "Lynel Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lynel%20Guts.png",
+        "Molduga Jaw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Molduga%20Jaw.png",
+        "Chuchu Jelly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Chuchu%20Jelly.png",
+        "Keese Eyeball": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Keese%20Eyeball.png",
+        "Hino": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Guts.png",
+        "Lynel Hoof": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lynel%20Hoof.png",
+        "Diamond": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Diamond.png",
+        "Topaz": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Topaz.png",
+        "Yellow Chuchu Jelly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Yellow%20Chuchu%20Jelly.png",
+        "Electric Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Electric%20Lizalfos%20Horn.png",
+        "Voltfruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Voltfruit.png",
+        "Zapshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Zapshroom.png",
+        "Electric Lizalfos Tail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Electric%20Lizalfos%20Tail.png",
+        "Electric Safflina": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Electric%20Safflina.png",
+        "Mighty Thistle": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Mighty%20Thistle.png",
+        "Razorshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Razorshroom.png",
+        "Lynel Saber Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lynel%20Saber%20Horn.png",
+        "Lynel Mace Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lynel%20Mace%20Horn.png",
+        "Blue-Maned Lynel Saber Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue-Maned%20Lynel%20Saber%20Horn.png",
+        "Blue-Maned Lynel Mace Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue-Maned%20Lynel%20Mace%20Horn.png",
+        "Razorclaw Crab": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Razorclaw%20Crab.png",
+        "White-Maned Lynel Saber Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/White-Maned%20Lynel%20Saber%20Horn.png",
+        "White-Maned Lynel Mace Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/White-Maned%20Lynel%20Mace%20Horn.png",
+        "Bladed Rhino Beetle": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Bladed%20Rhino%20Beetle.png",
+        "Swift Carrot": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Swift%20Carrot.png",
+        "Gibdo Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gibdo%20Guts.png",
+        "Molduga Fin": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Molduga%20Fin.png",
+        "Molduga Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Molduga%20Guts.png",
+        "Hearty Lizard": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hearty%20Lizard.png",
+        "Aerocuda Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Aerocuda%20Wing.png",
+        "Aerocuda Eyeball": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Aerocuda%20Eyeball.png",
+        "Gibdo Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gibdo%20Wing.png",
+        "Gleeok Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Wing.png",
+        "Zonaite": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Zonaite.png",
+        "Silver Moblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Moblin%20Horn.png",
+        "Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Frox%20Guts.png",
+        "Large Zonaite": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Large%20Zonaite.png",
+        "Silver Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Lizalfos%20Horn.png",
+        "Silver Lynel Saber Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Lynel%20Saber%20Horn.png",
+        "Silver Lynel Mace Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Lynel%20Mace%20Horn.png",
+        "Gleeok Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Guts.png",
+        "Sticky Lizard": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sticky%20Lizard.png",
+        "Horriblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Horriblin%20Horn.png",
+        "Blue Horriblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Horriblin%20Horn.png",
+        "Sticky Frog": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sticky%20Frog.png",
+        "Black Horriblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Horriblin%20Horn.png",
+        "Brightbloom Seed": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Brightbloom%20Seed.png",
+        "Brightcap": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Brightcap.png",
+        "Giant Brightbloom Seed": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Giant%20Brightbloom%20Seed.png",
+        "Deep Firefly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Deep%20Firefly.png",
+        "Glowing Cave Fish": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Glowing%20Cave%20Fish.png",
+        "Fire Fruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fire%20Fruit.png",
+        "Summerwing Butterfly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Summerwing%20Butterfly.png",
+        "Fire Like Stone": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Fire%20Like%20Stone.png",
+        "Warm Darner": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Warm%20Darner.png",
+        "Large Zonai Charge": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Large%20Zonai%20Charge.png",
+        "Gleeok Flame Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Flame%20Horn.png",
+        "Sizzlefin Trout": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Sizzlefin%20Trout.png",
+        "Shock Fruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shock%20Fruit.png",
+        "Thunderwing Butterfly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Thunderwing%20Butterfly.png",
+        "Shock Like Stone": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shock%20Like%20Stone.png",
+        "Electric Darner": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Electric%20Darner.png",
+        "Gleeok Thunder Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Thunder%20Horn.png",
+        "Voltfin Trout": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Voltfin%20Trout.png",
+        "Ice Fruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ice%20Fruit.png",
+        "Winterwing Butterfly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Winterwing%20Butterfly.png",
+        "Ice Like Stone": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Ice%20Like%20Stone.png",
+        "Cold Darner": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Cold%20Darner.png",
+        "Gleeok Frost Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Frost%20Horn.png",
+        "Chillfin Trout": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Chillfin%20Trout.png",
+        "Soldier Construct Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Soldier%20Construct%20Horn.png",
+        "Soldier Construct II Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Soldier%20Construct%20II%20Horn.png",
+        "Captain Construct I Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Captain%20Construct%20I%20Horn.png",
+        "Captain Construct II Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Captain%20Construct%20II%20Horn.png",
+        "Soldier Construct III Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Soldier%20Construct%20III%20Horn.png",
+        "Captain Construct III Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Captain%20Construct%20III%20Horn.png",
+        "Soldier Construct IV Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Soldier%20Construct%20IV%20Horn.png",
+        "Light Dragon's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Light%20Dragon's%20Scale.png",
+        "Light Dragon's Talon": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Light%20Dragon's%20Talon.png",
+        "Shard of Light Dragon's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Light%20Dragon's%20Fang.png",
+        "Light Dragon's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Light%20Dragon's%20Horn.png",
+        "Dark Clump": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dark%20Clump.png",
+        "Obsidian Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Obsidian%20Frox%20Fang.png",
+        "Blue-White Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue-White%20Frox%20Fang.png",
+        "Naydra's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Naydra's%20Horn.png",
+        "Dinraal's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Horn.png",
+        "Octorok Eyeball": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octorok%20Eyeball.png",
+        "Puffshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Puffshroom.png",
+        "Black Hino": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Hinox%20Horn.png",
+        "Mighty Bananas": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Mighty%20Bananas.png",
+        "Octorok Tentacle": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octorok%20Tentacle.png",
+        "Octo Balloon": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octo%20Balloon.png",
+        "Naydra's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Naydra's%20Scale.png",
+        "Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Boss%20Bokoblin%20Horn.png",
+        "Blue Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue%20Boss%20Bokoblin%20Horn.png",
+        "Boss Bokoblin Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Boss%20Bokoblin%20Fang.png",
+        "Black Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Boss%20Bokoblin%20Horn.png",
+        "Silver Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Boss%20Bokoblin%20Horn.png",
+        "Dazzlefruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dazzlefruit.png",
+        "Dinraal's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Scale.png",
+        "Dinraal's Claw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Claw.png",
+        "Shard of Dinraal's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Dinraal's%20Fang.png"
+    }
+}
