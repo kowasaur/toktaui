@@ -600,7 +600,7 @@
                 [
                     { "name": "Flint", "amount": 30 },
                     { "name": "Lizalfos Tail", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Lynel Hoof", "amount": 5 },
@@ -624,7 +624,7 @@
                 [
                     { "name": "Flint", "amount": 30 },
                     { "name": "Lizalfos Tail", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Lynel Hoof", "amount": 5 },
@@ -648,7 +648,7 @@
                 [
                     { "name": "Flint", "amount": 30 },
                     { "name": "Lizalfos Tail", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Lynel Hoof", "amount": 5 },
@@ -1014,12 +1014,12 @@
             "tiers": [
                 [
                     { "name": "Silver Bokoblin Horn", "amount": 9 },
-                    { "name": "Hino", "amount": 9 },
+                    { "name": "Hinox Guts", "amount": 9 },
                     { "name": "Zonaite", "amount": 15 }
                 ],
                 [
                     { "name": "Silver Moblin Horn", "amount": 9 },
-                    { "name": "Fro", "amount": 9 },
+                    { "name": "Frox Guts", "amount": 9 },
                     { "name": "Large Zonaite", "amount": 10 }
                 ],
                 [
@@ -1479,7 +1479,7 @@
             ]
         },
         {
-            "name": "Champion's Tunic",
+            "name": "Champion's Leathers",
             "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Champion's%20Tunic.png",
             "tiers": [
                 [
@@ -1510,17 +1510,17 @@
                 [{ "name": "Deep Firefly", "amount": 3 }],
                 [
                     { "name": "Dark Clump", "amount": 5 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Fang", "amount": 3 }
                 ],
                 [
                     { "name": "Zonaite", "amount": 20 },
-                    { "name": "Fro", "amount": 3 },
-                    { "name": "Obsidian Fro", "amount": 3 }
+                    { "name": "Frox Fingernail", "amount": 3 },
+                    { "name": "Obsidian Frox Fang", "amount": 3 }
                 ],
                 [
-                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Blue-White Frox Fang", "amount": 5 },
                     { "name": "Large Zonaite", "amount": 10 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Guts", "amount": 3 }
                 ]
             ]
         },
@@ -1531,17 +1531,17 @@
                 [{ "name": "Deep Firefly", "amount": 3 }],
                 [
                     { "name": "Dark Clump", "amount": 5 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Fang", "amount": 3 }
                 ],
                 [
                     { "name": "Zonaite", "amount": 20 },
-                    { "name": "Fro", "amount": 3 },
-                    { "name": "Obsidian Fro", "amount": 3 }
+                    { "name": "Frox Fingernail", "amount": 3 },
+                    { "name": "Obsidian Frox Fang", "amount": 3 }
                 ],
                 [
-                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Blue-White Frox Fang", "amount": 5 },
                     { "name": "Large Zonaite", "amount": 10 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Guts", "amount": 3 }
                 ]
             ]
         },
@@ -1552,17 +1552,17 @@
                 [{ "name": "Deep Firefly", "amount": 3 }],
                 [
                     { "name": "Dark Clump", "amount": 5 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Fang", "amount": 3 }
                 ],
                 [
                     { "name": "Zonaite", "amount": 20 },
-                    { "name": "Fro", "amount": 3 },
-                    { "name": "Obsidian Fro", "amount": 3 }
+                    { "name": "Frox Fingernail", "amount": 3 },
+                    { "name": "Obsidian Frox Fang", "amount": 3 }
                 ],
                 [
-                    { "name": "Blue-White Fro", "amount": 5 },
+                    { "name": "Blue-White Frox Fang", "amount": 5 },
                     { "name": "Large Zonaite", "amount": 10 },
-                    { "name": "Fro", "amount": 3 }
+                    { "name": "Frox Guts", "amount": 3 }
                 ]
             ]
         },
@@ -1606,7 +1606,7 @@
                 ],
                 [
                     { "name": "Electric Lizalfos Tail", "amount": 5 },
-                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Black Hinox Horn", "amount": 3 },
                     { "name": "Mighty Bananas", "amount": 10 }
                 ]
             ]
@@ -1626,7 +1626,7 @@
                 ],
                 [
                     { "name": "Electric Lizalfos Tail", "amount": 5 },
-                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Black Hinox Horn", "amount": 3 },
                     { "name": "Mighty Bananas", "amount": 10 }
                 ]
             ]
@@ -1646,7 +1646,7 @@
                 ],
                 [
                     { "name": "Electric Lizalfos Tail", "amount": 5 },
-                    { "name": "Black Hino", "amount": 3 },
+                    { "name": "Black Hinox Horn", "amount": 3 },
                     { "name": "Mighty Bananas", "amount": 10 }
                 ]
             ]
@@ -1684,7 +1684,7 @@
                 ],
                 [
                     { "name": "Black Boss Bokoblin Horn", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
@@ -1707,7 +1707,7 @@
                 ],
                 [
                     { "name": "Black Boss Bokoblin Horn", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
@@ -1730,7 +1730,7 @@
                 ],
                 [
                     { "name": "Black Boss Bokoblin Horn", "amount": 3 },
-                    { "name": "Hino", "amount": 3 }
+                    { "name": "Hinox Guts", "amount": 3 }
                 ],
                 [
                     { "name": "Silver Boss Bokoblin Horn", "amount": 3 },
@@ -2126,37 +2126,15 @@
             "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Mask.png",
             "tiers": [
                 [
-                    { "name": "Hino", "amount": 5 },
+                    { "name": "Hinox Toenail", "amount": 5 },
                     { "name": "Dinraal's Scale", "amount": 1 }
                 ],
                 [
-                    { "name": "Hino", "amount": 5 },
+                    { "name": "Hinox Tooth", "amount": 5 },
                     { "name": "Dinraal's Claw", "amount": 1 }
                 ],
                 [
-                    { "name": "Hino", "amount": 2 },
-                    { "name": "Shard of Dinraal's Fang", "amount": 1 }
-                ],
-                [
-                    { "name": "Lynel Guts", "amount": 2 },
-                    { "name": "Dinraal's Horn", "amount": 1 }
-                ]
-            ]
-        },
-        {
-            "name": "Fierce Deity Boots",
-            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Boots.png",
-            "tiers": [
-                [
-                    { "name": "Hino", "amount": 5 },
-                    { "name": "Dinraal's Scale", "amount": 1 }
-                ],
-                [
-                    { "name": "Hino", "amount": 5 },
-                    { "name": "Dinraal's Claw", "amount": 1 }
-                ],
-                [
-                    { "name": "Hino", "amount": 2 },
+                    { "name": "Hinox Guts", "amount": 2 },
                     { "name": "Shard of Dinraal's Fang", "amount": 1 }
                 ],
                 [
@@ -2170,20 +2148,42 @@
             "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Armor.png",
             "tiers": [
                 [
-                    { "name": "Hino", "amount": 5 },
-                    { "name": "Dinraal's Scale", "amount": 1 }
+                    { "name": "Hinox Toenail", "amount": 5 },
+                    { "name": "Naydra's Scale", "amount": 1 }
                 ],
                 [
-                    { "name": "Hino", "amount": 5 },
-                    { "name": "Dinraal's Claw", "amount": 1 }
+                    { "name": "Hinox Tooth", "amount": 5 },
+                    { "name": "Naydra's Claw", "amount": 1 }
                 ],
                 [
-                    { "name": "Hino", "amount": 2 },
-                    { "name": "Shard of Dinraal's Fang", "amount": 1 }
+                    { "name": "Hinox Guts", "amount": 2 },
+                    { "name": "Shard of Naydra's Fang", "amount": 1 }
                 ],
                 [
                     { "name": "Lynel Guts", "amount": 2 },
-                    { "name": "Dinraal's Horn", "amount": 1 }
+                    { "name": "Naydra's Horn", "amount": 1 }
+                ]
+            ]
+        },
+        {
+            "name": "Fierce Deity Boots",
+            "image": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/items/Fierce%20Deity%20Boots.png",
+            "tiers": [
+                [
+                    { "name": "Hinox Toenail", "amount": 5 },
+                    { "name": "Farosh's Scale", "amount": 1 }
+                ],
+                [
+                    { "name": "Hinox Tooth", "amount": 5 },
+                    { "name": "Farosh's Claw", "amount": 1 }
+                ],
+                [
+                    { "name": "Hinox Guts", "amount": 2 },
+                    { "name": "Shard of Farosh's Fang", "amount": 1 }
+                ],
+                [
+                    { "name": "Lynel Guts", "amount": 2 },
+                    { "name": "Farosh's Horn", "amount": 1 }
                 ]
             ]
         },
@@ -2321,7 +2321,7 @@
         "Molduga Jaw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Molduga%20Jaw.png",
         "Chuchu Jelly": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Chuchu%20Jelly.png",
         "Keese Eyeball": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Keese%20Eyeball.png",
-        "Hino": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Guts.png",
+        "Hinox Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Guts.png",
         "Lynel Hoof": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Lynel%20Hoof.png",
         "Diamond": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Diamond.png",
         "Topaz": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Topaz.png",
@@ -2352,7 +2352,7 @@
         "Gleeok Wing": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Gleeok%20Wing.png",
         "Zonaite": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Zonaite.png",
         "Silver Moblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Moblin%20Horn.png",
-        "Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Frox%20Guts.png",
+        "Frox Guts": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Frox%20Guts.png",
         "Large Zonaite": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Large%20Zonaite.png",
         "Silver Lizalfos Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Lizalfos%20Horn.png",
         "Silver Lynel Saber Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Lynel%20Saber%20Horn.png",
@@ -2399,13 +2399,15 @@
         "Shard of Light Dragon's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Light%20Dragon's%20Fang.png",
         "Light Dragon's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Light%20Dragon's%20Horn.png",
         "Dark Clump": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dark%20Clump.png",
-        "Obsidian Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Obsidian%20Frox%20Fang.png",
-        "Blue-White Fro": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue-White%20Frox%20Fang.png",
+        "Frox Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Frox%20Fang.png",
+        "Frox Fingernail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Frox%20Fingernail.png",
+        "Obsidian Frox Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Obsidian%20Frox%20Fang.png",
+        "Blue-White Frox Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Blue-White%20Frox%20Fang.png",
         "Naydra's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Naydra's%20Horn.png",
         "Dinraal's Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Horn.png",
         "Octorok Eyeball": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octorok%20Eyeball.png",
         "Puffshroom": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Puffshroom.png",
-        "Black Hino": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Hinox%20Horn.png",
+        "Black Hinox Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Hinox%20Horn.png",
         "Mighty Bananas": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Mighty%20Bananas.png",
         "Octorok Tentacle": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octorok%20Tentacle.png",
         "Octo Balloon": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Octo%20Balloon.png",
@@ -2416,7 +2418,9 @@
         "Black Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Black%20Boss%20Bokoblin%20Horn.png",
         "Silver Boss Bokoblin Horn": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Silver%20Boss%20Bokoblin%20Horn.png",
         "Dazzlefruit": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dazzlefruit.png",
+        "Hinox Toenail": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Toenail.png",
         "Dinraal's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Scale.png",
+        "Hinox Tooth": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Tooth.png",
         "Dinraal's Claw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Claw.png",
         "Shard of Dinraal's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Dinraal's%20Fang.png"
     }

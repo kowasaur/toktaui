@@ -4,7 +4,8 @@
 const data = { armour: [], item_image: {} };
 
 function itemAmount(itemDiv) {
-    const [text_amount, name] = itemDiv.textContent.split("x").map(t => t.trim());
+    const [text_amount, ...name_parts] = itemDiv.textContent.split("x");
+    const name = name_parts.join("x").trim();
     if (!(name in data.item_image)) data.item_image[name] = itemDiv.querySelector("img").src;
     return { name, amount: parseInt(text_amount) };
 }
