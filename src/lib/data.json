@@ -2422,6 +2422,10 @@
         "Dinraal's Scale": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Scale.png",
         "Hinox Tooth": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Hinox%20Tooth.png",
         "Dinraal's Claw": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Dinraal's%20Claw.png",
-        "Shard of Dinraal's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Dinraal's%20Fang.png"
-    }
+        "Shard of Dinraal's Fang": "https://img.rankedboost.com/wp-content/plugins/zelda-tk/assets/materials/Shard%20of%20Dinraal's%20Fang.png",
+        "Rupee": "https://cdn.wikimg.net/en/zeldawiki/images/8/85/TotK_Green_Rupee_Icon.png",
+        "Naydra's Claw": "https://cdn.wikimg.net/en/zeldawiki/images/9/94/TotK_Naydra%27s_Claw_Icon.png",
+        "Shard of Naydra's Fang": "https://cdn.wikimg.net/en/zeldawiki/images/a/a0/TotK_Shard_of_Naydra%27s_Fang_Icon.png"
+    },
+    "upgrade_costs": [10, 50, 200, 500]
 }

@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { armour, item_image } from "$lib/data.json";
+    import { armour, item_image, upgrade_costs } from "$lib/data.json";
     import { user_data } from "./stores";
 
     // Get around typescript being annoying
@@ -10,30 +10,35 @@
 
         const tier = $user_data[curr.name].tier;
         if (tier !== 4) {
-            for (const item of curr.tiers[tier]) {
+            const items = [{ name: "Rupee", amount: upgrade_costs[tier] }, ...curr.tiers[tier]];
+            for (const item of items) {
                 prev[item.name] = (prev[item.name] ?? 0) + item.amount;
             }
         }
 
         return prev;
     }, {});
-
-    console.log(necessary_items);
 </script>
 
 <section>
     {#each Object.keys(necessary_items) as item}
-        <img src={image[item]} alt={item} />
-        <div>{item} x{necessary_items[item]}</div>
+        <div class="item">
+            <img src={image[item]} alt={item} />
+            <div>{item} x{necessary_items[item]}</div>
+        </div>
     {/each}
 </section>
 
 <style>
     section {
         display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
         flex: 0.6;
+    }
+
+    .item * {
+        width: 4em;
+        margin: 0 10px;
     }
 </style>
