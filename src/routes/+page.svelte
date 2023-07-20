@@ -1,12 +1,12 @@
 <script lang="ts">
     import { armour, item_image, upgrade_costs } from "$lib/data.json";
-    import { user_data } from "./stores";
+    import { user_data, shouldShow } from "./stores";
 
     // Get around typescript being annoying
     const image: Record<string, string> = item_image;
 
-    const necessary_items = armour.reduce<Record<string, number>>((prev, curr) => {
-        if (!(curr.name in $user_data)) return prev;
+    $: necessary_items = armour.reduce<Record<string, number>>((prev, curr) => {
+        if (!$shouldShow(curr.name)) return prev;
 
         const tier = $user_data[curr.name].tier;
         if (tier !== 4) {
@@ -22,7 +22,7 @@
 
 <section>
     {#each Object.keys(necessary_items) as item}
-        <div class="item">
+        <div class="item" title={item}>
             <img src={image[item]} alt={item} />
             <div>{item} x{necessary_items[item]}</div>
         </div>

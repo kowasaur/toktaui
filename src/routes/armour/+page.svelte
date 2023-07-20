@@ -1,8 +1,15 @@
 <script lang="ts">
     import { armour } from "$lib/data.json";
-    import { user_data } from "../stores";
+    import { user_data, shouldShow } from "../stores";
 
     const valid_armour_names = new Set(armour.map(a => a.name));
+
+    function updateUserData(armour: string, new_value: UserArmour) {
+        user_data.update(d => {
+            d[armour] = new_value;
+            return d;
+        });
+    }
 
     let input = "";
 
@@ -15,20 +22,15 @@
             alert("You've already added this");
             return;
         }
-        user_data.update(d => {
-            d[input] = { tier: 0, favourite: false };
-            return d;
-        });
+        updateUserData(input, { tier: 0, favourite: false });
     }
 
     function tierAdjust(armour: string, amount: number) {
-        return () =>
-            user_data.update(d => {
-                // clamp between 0 and 4
-                const tier = Math.min(Math.max(d[armour].tier + amount, 0), 4) as ValidTier;
-                d[armour] = { ...d[armour], tier };
-                return d;
-            });
+        return () => {
+            const old_armour = $user_data[armour];
+            const tier = Math.min(Math.max(old_armour.tier + amount, 0), 4) as ValidTier;
+            updateUserData(armour, { ...old_armour, tier });
+        };
     }
 </script>
 
@@ -38,13 +40,19 @@
 </form>
 
 {#each armour as a}
-    {#if a.name in $user_data}
+    {#if $shouldShow(a.name)}
         <img src={a.image} alt={a.name} />
         <div>{a.name}</div>
+        {@const user = $user_data[a.name]}
         <div>
             <button on:click={tierAdjust(a.name, -1)}>-</button>
-            {"★".repeat($user_data[a.name].tier)}
+            {"★".repeat(user.tier)}
             <button on:click={tierAdjust(a.name, 1)}>+</button>
+            <button
+                class="favourite"
+                on:click={() => updateUserData(a.name, { ...user, favourite: !user.favourite })}
+                >{user.favourite ? "♥" : "♡"}</button
+            >
         </div>
     {/if}
 {/each}
@@ -52,5 +60,8 @@
 <style>
     img {
         width: 7em;
+    }
+    .favourite {
+        color: rgb(233, 3, 3);
     }
 </style>
