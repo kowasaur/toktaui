@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-    <title>{this_name}</title>
+    <title>{this_name} - TOTKAUI</title>
     <meta name="description" content="Tears of the Kingdom Armour Upgrade Items" />
 </svelte:head>
 
