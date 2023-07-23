@@ -14,5 +14,5 @@
 <header>
     <a href={other_url}>{other_name}</a>
     <label for="only_favourites">Only Favourites</label>
-    <input type="checkbox" name="only_favourites" bind:checked={$only_favourites} />
+    <input type="checkbox" id="only_favourites" bind:checked={$only_favourites} />
 </header>
