@@ -1,8 +1,9 @@
 :root {
     --font-body: Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
         Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    --color-theme-1: #ff3e00;
     --color-text: rgba(255, 255, 255, 0.87);
+    --outer-margin: 1rem;
+    --black: #161d22;
     font-family: var(--font-body);
     color: var(--color-text);
 }
@@ -11,15 +12,33 @@ body {
     margin: 0;
     min-height: 100vh;
     background-attachment: fixed;
-    background-color: black; /* in case the image doesn't load */
+    background-color: var(--black); /* in case the image doesn't load */
     background-size: 100vw 100vh;
     background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a0c6829-bd3f-4555-8aec-a66c3b9bf86e/dfx4lwb-15039c25-7dd9-4bb3-8d6d-7ca6f5c78780.jpg/v1/fill/w_681,h_1173,q_70,strp/zelda_totk_phone_wallpaper__by_bifixcture_dfx4lwb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjUxNyIsInBhdGgiOiJcL2ZcLzFhMGM2ODI5LWJkM2YtNDU1NS04YWVjLWE2NmMzYjliZjg2ZVwvZGZ4NGx3Yi0xNTAzOWMyNS03ZGQ5LTRiYjMtOGQ2ZC03Y2E2ZjVjNzg3ODAuanBnIiwid2lkdGgiOiI8PTE0NjMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PygoowujTxaUqfB4QZWpWMDwKSrkbwtNyic3D9mjEGk");
     backdrop-filter: blur(2px);
 }
 
-a {
-    color: var(--color-theme-1);
+/* header and footer */
+.header {
+    color: var(--black);
+    background-color: #ffffe7;
+    padding: var(--outer-margin);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a {
+    font-weight: 500;
+    background-color: var(--black);
+    border-radius: 1em;
+    padding: 0.3rem 0.5rem;
+    color: var(--color-text);
     text-decoration: none;
+}
+
+input[type="checkbox"] {
+    accent-color: var(--black);
 }
 
 .tile {
@@ -27,6 +46,5 @@ a {
     border: 1px solid rgb(134, 134, 134);
     border-radius: 3px;
     /* color: white; */
-    margin: 0.5rem 0;
     padding: 0.15rem;
 }

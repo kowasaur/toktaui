@@ -10,7 +10,9 @@
         <slot />
     </main>
 
-    <footer><a href="https://github.com/kowasaur/totkaui">Github</a></footer>
+    <footer class="header">
+        <a href="https://github.com/kowasaur/totkaui">GitHub</a>
+    </footer>
 </div>
 
 <style>
@@ -19,10 +21,14 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        margin: 1rem;
     }
 
     main {
+        margin: var(--outer-margin);
         box-sizing: border-box;
+    }
+
+    footer.header {
+        justify-content: center;
     }
 </style>
