@@ -1,36 +1,32 @@
-@import "@fontsource/fira-mono";
-
 :root {
     --font-body: Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
         Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    --font-mono: "Fira Mono", monospace;
-    --color-bg-0: rgb(202, 216, 228);
-    --color-bg-1: hsl(209, 36%, 86%);
-    --color-bg-2: hsl(224, 44%, 95%);
     --color-theme-1: #ff3e00;
-    --color-theme-2: #4075a6;
-    --color-text: rgba(0, 0, 0, 0.7);
-    --column-width: 42rem;
-    --column-margin-top: 4rem;
+    --color-text: rgba(255, 255, 255, 0.87);
     font-family: var(--font-body);
     color: var(--color-text);
 }
 
 body {
+    margin: 0;
     min-height: 100vh;
-    padding: 0.6rem;
     background-attachment: fixed;
-    background-color: var(--color-bg-1);
+    background-color: black; /* in case the image doesn't load */
     background-size: 100vw 100vh;
-    background-image: radial-gradient(
-            50% 50% at 50% 50%,
-            rgba(255, 255, 255, 0.75) 0%,
-            rgba(255, 255, 255, 0) 100%
-        ),
-        linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a0c6829-bd3f-4555-8aec-a66c3b9bf86e/dfx4lwb-15039c25-7dd9-4bb3-8d6d-7ca6f5c78780.jpg/v1/fill/w_681,h_1173,q_70,strp/zelda_totk_phone_wallpaper__by_bifixcture_dfx4lwb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjUxNyIsInBhdGgiOiJcL2ZcLzFhMGM2ODI5LWJkM2YtNDU1NS04YWVjLWE2NmMzYjliZjg2ZVwvZGZ4NGx3Yi0xNTAzOWMyNS03ZGQ5LTRiYjMtOGQ2ZC03Y2E2ZjVjNzg3ODAuanBnIiwid2lkdGgiOiI8PTE0NjMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PygoowujTxaUqfB4QZWpWMDwKSrkbwtNyic3D9mjEGk");
+    backdrop-filter: blur(2px);
 }
 
 a {
     color: var(--color-theme-1);
     text-decoration: none;
+}
+
+.tile {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 3px;
+    /* color: white; */
+    margin: 0.5rem 0;
+    padding: 0.15rem;
 }

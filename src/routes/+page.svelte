@@ -31,7 +31,7 @@
 
 <section>
     {#each Object.keys(necessary_items) as item}
-        <div class="item" title={item}>
+        <div class="item tile" title={item}>
             <img src={image[item]} alt={item} />
             <div>{item} x{necessary_items[item]}</div>
         </div>
@@ -43,11 +43,12 @@
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        flex: 0.6;
+        /* flex: 0.6; */
+        justify-content: space-between;
     }
 
-    .item * {
+    .item > * {
         width: 4em;
-        margin: 0 10px;
+        /* margin: 0 10px; */
     }
 </style>
